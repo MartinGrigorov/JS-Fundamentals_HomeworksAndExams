@@ -12,7 +12,7 @@ function domObjectMinMaxProperty(domObject) {
         }
 
     }
-    
+
     console.log(minProperty);
     console.log(maxProperty);
 }

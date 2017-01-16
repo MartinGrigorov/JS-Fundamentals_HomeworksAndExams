@@ -13,3 +13,6 @@ function solve(args) {
 }
 
 solve(['5', '2'])
+solve(['8', '2'])
+solve(['3', '4'])
+solve(['5.5', '4.5'])

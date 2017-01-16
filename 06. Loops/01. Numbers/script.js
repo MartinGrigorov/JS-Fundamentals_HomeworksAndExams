@@ -6,3 +6,5 @@ function solve(args) {
         process.stdout.write(' ' + i);
     }
 }
+
+solve(['9'])

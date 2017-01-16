@@ -10,3 +10,5 @@ function solve(args) {
         console.log();
     }
 }
+
+solve([2]);

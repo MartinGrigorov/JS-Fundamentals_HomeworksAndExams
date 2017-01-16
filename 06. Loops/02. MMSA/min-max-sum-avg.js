@@ -12,7 +12,7 @@ function solve(args) {
     }
 
     avg = sum / len;
-    
+
     console.log("min=" + min.toFixed(2));
     console.log("max=" + max.toFixed(2));
     console.log("sum=" + sum.toFixed(2));
@@ -20,4 +20,4 @@ function solve(args) {
 }
 
 solve([2, 5, 1]);
-solve([2, -1, 4]);
+// solve([2, -1, 4]);
