@@ -1,7 +1,6 @@
 function solve(args) {
 	"use strict";
-	let numbers = args[0].split(" ")
-		.map(Number);
+	let numbers = args[0].split(" ").map(Number);
 	let best = -1,
 		current = 0;
 
