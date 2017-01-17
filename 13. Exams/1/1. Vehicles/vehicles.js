@@ -29,7 +29,7 @@ solve(['40']); // 11
 // var tests = [
 //   ['7'],
 //   ['10'],
-//   ['40']  
+//   ['40']
 // ];
 
 // tests.forEach(function (tests) {
