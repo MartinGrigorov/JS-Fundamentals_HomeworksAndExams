@@ -25,9 +25,9 @@ Write a program that compares two `char` arrays lexicographically (letter by let
 ```
 
 #### Output
-```
+
 >
-```
+
 
 ### Sample test 2
 
@@ -37,9 +37,9 @@ Write a program that compares two `char` arrays lexicographically (letter by let
 ```
 
 #### Output
-```
+
 =
-```
+
 
 ## Submission
 - Submit your code [here](http://bgcoder.com/Contests/Compete/Index/360#1)
