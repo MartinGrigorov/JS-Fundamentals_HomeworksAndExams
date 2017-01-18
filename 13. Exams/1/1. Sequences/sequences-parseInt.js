@@ -9,7 +9,7 @@ function solve(args) {
 		if (last > current) {
 			count++;
 		}
-		
+
 		last = current;
 	}
 

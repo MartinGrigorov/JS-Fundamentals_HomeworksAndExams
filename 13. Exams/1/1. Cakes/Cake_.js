@@ -5,9 +5,9 @@ function Cakes(args) {
         cake3 = parseInt(args[3]),
         maxMoneyAmount = 0;
 
-    for (let i = 0; i < sum / cake1; i++) {
-        for (let j = 0; j < sum / cake2; j++) {
-            for (let k = 0; k < sum / cake3; k++) {
+    for (let i = 0; i <= sum / cake1; i++) {
+        for (let j = 0; j <= sum / cake2; j++) {
+            for (let k = 0; k <= sum / cake3; k++) {
 
                 let priceForAll = i * cake1 + j * cake2 + k * cake3;
 
