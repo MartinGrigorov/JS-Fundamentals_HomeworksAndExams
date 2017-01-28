@@ -3,10 +3,10 @@ function jump(args) {
         n = args[0],
         result = 0,
         simplifiedResult = 0,
-        i = 0;
+        i = 1;
 
 
-    for (let i = 1; i < n; i) {
+    for (let i=1; i < n; i) {
         if (number[i] % 2 === 0) { //четно
             result += number[i];
             i +=2;
