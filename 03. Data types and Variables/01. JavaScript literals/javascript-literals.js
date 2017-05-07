@@ -3,12 +3,14 @@ function solve() {
         floatVariable = 1.05,
         boolVariable = true,
         stringVariable = 'Hello',
-        
+
         objectVariable = {
             name: 'Alf',
             age: 111
         },
         arrayVariable = [1, 2, 3, 4, 5];
+
+
 
     console.log(intVariable);
     console.log(floatVariable);
